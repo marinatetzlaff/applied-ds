@@ -42,6 +42,7 @@ Documentos, artículos y blogs seleccionados sobre ciencia de datos en producci�
 - [Narrative Collapse](https://theconvivialsociety.substack.com/p/narrative-collapse")
 - [Project Implicit](https://implicit.harvard.edu/implicit/research/¨)
 - [Recommended Reading for Allies](https://codeascraft.com/2016/08/10/recommended-reading-for-allies/")
+- [Springtime Everywhere](https://reallifemag.com/springtime-everywhere/")
 - [The Moral Economy of Tech](https://idlewords.com/talks/sase_panel.htm")
 - [Want to Freak Yourself Out?](https://twitter.com/iamdylancurran/status/977559925680467968")
 
