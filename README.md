@@ -29,6 +29,7 @@ Documentos, art√≠culos y blogs seleccionados sobre ciencia de datos en producci√
 - [What Is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
  ## Data Architecture
+- [Data Discovery Platforms and Their Open Source Solutions](https://eugeneyan.com/writing/data-discovery-platforms/)
 - [Data Monolith to Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 - [Quantum Computing for the Very Curious](https://quantum.country/qcvc)
 
