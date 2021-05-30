@@ -49,7 +49,7 @@ Documentos, art√≠culos y blogs seleccionados sobre ciencia de datos en producci√
 
  ## Data Visualization
 - [Data Visualization and the Modern Imagination](https://exhibits.stanford.edu/dataviz)
-- [Explorable Explanations](https://exhibits.stanford.edu/dataviz)
+- [Explorable Explanations](https://explorabl.es/)
 - [Information is Beautiful](https://informationisbeautiful.net/)
 - [PhD School in Pictures](http://matt.might.net/articles/phd-school-in-pictures/)
 
