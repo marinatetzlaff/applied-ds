@@ -1,5 +1,5 @@
 # applied-ds
-Selected papers, articles and blogs on data science in production. ⚙️
+Documentos, artículos y blogs seleccionados sobre ciencia de datos en producción. ⚙️
 
  ### Table of Contents
 - [Applications](#applications)
