@@ -8,10 +8,14 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [Data Architecture](#data-architecture)
 - [Data Culture](#data-culture)
 - [Data Ethics](#data-ethics)
-- [Data Visualization](#data-visualization)
+- [Data Quality](#data-quality)
+- [Data Visualizations](#data-visualizations)
 - [Experimental Design](#experimental-design)
+- [Power BI](#power-bi)
+- [Relational Database Management Systems](#relational-database-management-systems)
 - [Sample Data Sets](#sample-data-sets)
 - [Survey Methodology](#survey-methodology)
+- [Version Control](#version-control)
 
  ## Applications
  - [Draw Entity-Relationship Diagrams, Painlessly](https://dbdiagram.io/home)
@@ -21,6 +25,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
  ## Cheat Sheets
 - [Conda Cheat Sheet](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiR-ISBur_vAhU4HLkGHe_aDswQFjABegQIARAD&url=https%3A%2F%2Fconda.io%2Fprojects%2Fconda%2Fen%2Flatest%2F_downloads%2F843d9e0198f2a193a3484886fa28163c%2Fconda-cheatsheet.pdf&usg=AOvVaw2jul_KotfVDvlYCck3HW4Q)
 - [The Full Data Science Roundup Reference](https://whisperingdata.substack.com/p/the-full-data-science-roundup-reference)
+- [Los Apuntes de Majo](https://losapuntesdemajo.vercel.app)
 
  ## Computer Programming
 - [Automate Google Sheets: An Introduction to Google Apps Script](https://zapier.com/learn/google-sheets/google-apps-script-tutorial/)
@@ -47,7 +52,11 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [The Moral Economy of Tech](https://idlewords.com/talks/sase_panel.htm)
 - [Want to Freak Yourself Out?](https://twitter.com/iamdylancurran/status/977559925680467968)
 
- ## Data Visualization
+ ## Data Quality
+ - [Monitoring Data Quality at Scale with Statistical Modeling](https://eng.uber.com/monitoring-data-quality-at-scale/)
+
+ ## Data Visualizations
+- [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [Data Visualization and the Modern Imagination](https://exhibits.stanford.edu/dataviz)
 - [Explorable Explanations](https://explorabl.es/)
 - [Information is Beautiful](https://informationisbeautiful.net/)
@@ -60,6 +69,16 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [On Moving from Statistics to Machine Learning](https://ryxcommar.com/2019/07/14/on-moving-from-statistics-to-machine-learning-the-final-stage-of-grief/)
 - [Session for analysis, the eternal fiction](https://counting.substack.com/p/sessions-for-analysis-the-eternal)
 
+ ## Power BI
+ - [Data Stories Gallery](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
+ - [Data Reduction Techniques](https://docs.microsoft.com/en-us/power-bi/guidance/import-modeling-data-reduction)
+
+ ## Relational Database Management Systems
+- [DB-Engines Ranking](https://db-engines.com/en/ranking)
+- [Effective SQL for Data Science](https://ploomber.io/posts/sql/?utm_source=pocket_mylist)
+- [SQL Formatters in VS Code](https://marketplace.visualstudio.com/search?term=sql%20formatter&target=VSCode&category=All%20categories&sortBy=Relevance)
+- [SQLFluff — The Linter For Modern SQL](https://online.sqlfluff.com/)
+
 ## Sample Data Sets
 - [News API](https://newsapi.org/)
 - [Precios Claros](http://preciosclaros.gob.ar)
@@ -70,3 +89,9 @@ Selected papers, articles and blogs on data science in production. ⚙️
  - [Qué son los radios censales y para qué sirven](https://lautarocantar.com/post/qu%C3%A9-son-los-radios-censales-y-para-qu%C3%A9-sirven/)
  - [Weighting Methods](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiewJ-spL_vAhVvIbkGHfKMBjAQFjADegQIBxAD&url=https%3A%2F%2Fwww.scb.se%2Fcontentassets%2Fca21efb41fee47d293bbee5bf7be7fb3%2Fweighting-methods.pdf&usg=AOvVaw1lPhz6HvWaAgm05RfyrYH3)
  - [Weighting Online Opt-In Samples](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjM8rTQpL_vAhXyH7kGHbmoDzgQFjABegQIAhAD&url=https%3A%2F%2Fwww.pewresearch.org%2Fmethods%2Fwp-content%2Fuploads%2Fsites%2F10%2F2018%2F01%2FWeighting-Online-Opt-In-Samples.pdf&usg=AOvVaw3FgPOc46V8O25d1CYH4GDk)
+
+ ## Version Control
+ - [Git - la guía sencilla](https://rogerdudler.github.io/git-guide/index.es.html)
+ - [Git SQL Together](https://caitlinhudon.com/2018/11/28/git-sql-together/)
+ - [Oh Shit Git](https://ohshitgit.com)
+
