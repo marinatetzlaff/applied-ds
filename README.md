@@ -18,6 +18,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [Version Control](#version-control)
 
  ## Applications
+ - [Camelot](https://camelot-py.readthedocs.io/en/master/)
  - [Draw Entity-Relationship Diagrams, Painlessly](https://dbdiagram.io/home)
  - [Gliffy](https://www.gliffy.com/)
  - [Shiny](https://shiny.rstudio.com/)
