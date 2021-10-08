@@ -27,6 +27,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [Conda Cheat Sheet](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiR-ISBur_vAhU4HLkGHe_aDswQFjABegQIARAD&url=https%3A%2F%2Fconda.io%2Fprojects%2Fconda%2Fen%2Flatest%2F_downloads%2F843d9e0198f2a193a3484886fa28163c%2Fconda-cheatsheet.pdf&usg=AOvVaw2jul_KotfVDvlYCck3HW4Q)
 - [The Full Data Science Roundup Reference](https://whisperingdata.substack.com/p/the-full-data-science-roundup-reference)
 - [Los Apuntes de Majo](https://losapuntesdemajo.vercel.app)
+- [Six Great Theorems of Linear Algebra](http://math.mit.edu/~gs/linearalgebra/linearalgebra5_6Great.pdf)
 
  ## Computer Programming
 - [Automate Google Sheets: An Introduction to Google Apps Script](https://zapier.com/learn/google-sheets/google-apps-script-tutorial/)
@@ -62,6 +63,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [Explorable Explanations](https://explorabl.es/)
 - [Information is Beautiful](https://informationisbeautiful.net/)
 - [PhD School in Pictures](http://matt.might.net/articles/phd-school-in-pictures/)
+- [Seeing Theory, A Visual Introduction to Probability and Statistics](https://seeing-theory.brown.edu/index.html)
 
  ## Experimental Design
 - [A list of tech companies and their experimentation platforms.](https://twitter.com/GergelyOrosz/status/1350831467354578945)
