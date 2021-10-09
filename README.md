@@ -31,7 +31,8 @@ Selected papers, articles and blogs on data science in production. ⚙️
 
  ## Computer Programming
 - [Automate Google Sheets: An Introduction to Google Apps Script](https://zapier.com/learn/google-sheets/google-apps-script-tutorial/)
-- [Falsehoods programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca)
+- [Falsehoods programmers believe about time](FalsehoodsAboutTime.com)
+- [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [Living organisms can’t survive in their own waste products - Alan Kay](https://www.youtube.com/watch?v=kgmAwnNxdgw)
 - [What Is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
