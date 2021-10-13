@@ -48,6 +48,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
 
  ## Data Ethics
 - [Deon](https://deon.drivendata.org/#simple-usage)
+- [How “Good Intent” Undermines Diversity and Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/?utm_source=pocket-app&utm_medium=share)
 - [Narrative Collapse](https://theconvivialsociety.substack.com/p/narrative-collapse)
 - [Project Implicit](https://implicit.harvard.edu/implicit/research/)
 - [Recommended Reading for Allies](https://codeascraft.com/2016/08/10/recommended-reading-for-allies/)
@@ -96,6 +97,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
  - [Weighting Online Opt-In Samples](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjM8rTQpL_vAhXyH7kGHbmoDzgQFjABegQIAhAD&url=https%3A%2F%2Fwww.pewresearch.org%2Fmethods%2Fwp-content%2Fuploads%2Fsites%2F10%2F2018%2F01%2FWeighting-Online-Opt-In-Samples.pdf&usg=AOvVaw3FgPOc46V8O25d1CYH4GDk)
 
  ## Version Control
+ - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/?utm_source=pocket-app&utm_medium=share)
  - [Git - la guía sencilla](https://rogerdudler.github.io/git-guide/index.es.html)
  - [Git SQL Together](https://caitlinhudon.com/2018/11/28/git-sql-together/)
  - [Oh Shit Git](https://ohshitgit.com)
