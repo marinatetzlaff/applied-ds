@@ -73,6 +73,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [Guidelines for AB Testing](https://hookedondata.org/guidelines-for-ab-testing/)
 - [Large Scale experimentation](https://multithreaded.stitchfix.com/blog/2020/07/07/large-scale-experimentation/?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter#back-fn4)
 - [On Moving from Statistics to Machine Learning](https://ryxcommar.com/2019/07/14/on-moving-from-statistics-to-machine-learning-the-final-stage-of-grief/)
+- [Sample Size Calculator](https://www.evanmiller.org/ab-testing/sample-size.html)
 - [Session for analysis, the eternal fiction](https://counting.substack.com/p/sessions-for-analysis-the-eternal)
 
  ## Power BI
