@@ -66,6 +66,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [Information is Beautiful](https://informationisbeautiful.net/)
 - [PhD School in Pictures](http://matt.might.net/articles/phd-school-in-pictures/)
 - [Seeing Theory, A Visual Introduction to Probability and Statistics](https://seeing-theory.brown.edu/index.html)
+- [So You Need a Typeface](https://julianhansen.com/soyouneedatypeface/)
 - [Timezone Visualization](https://colineberhardt.github.io/timezone-viz/multiples/)
 
  ## Experimental Design
