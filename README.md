@@ -88,6 +88,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [SQLFluff — The Linter For Modern SQL](https://online.sqlfluff.com/)
 
 ## Sample Data Sets
+- [Data is Plural](https://www.data-is-plural.com/)
 - [News API](https://newsapi.org/)
 - [Precios Claros](http://preciosclaros.gob.ar)
 - [Portal de Datos Abiertos](https://datos.hcdn.gob.ar/)
