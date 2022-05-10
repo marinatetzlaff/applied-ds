@@ -44,6 +44,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
  ## Data Culture
 - [Culture Eats Strategy for Breakfast](https://techcrunch.com/2014/04/12/culture-eats-strategy-for-breakfast/)
 - [Data Careers: Dealing With Being in a Cost Center](https://www.holistics.io/blog/career-dealing-with-cost-center/)
+- [Data Dies in Darkness](https://locallyoptimistic.com/post/data-dies-in-darkness/)
 - [Netflix Culture](https://jobs.netflix.com/culture)
 
  ## Data Ethics
