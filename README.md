@@ -66,6 +66,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [Data Visualization and the Modern Imagination](https://exhibits.stanford.edu/dataviz)
 - [Explorable Explanations](https://explorabl.es/)
 - [Information is Beautiful](https://informationisbeautiful.net/)
+- [Layoffs.fyi](https://layoffs.fyi/)
 - [PhD School in Pictures](http://matt.might.net/articles/phd-school-in-pictures/)
 - [Seeing Theory, A Visual Introduction to Probability and Statistics](https://seeing-theory.brown.edu/index.html)
 - [So You Need a Typeface](https://julianhansen.com/soyouneedatypeface/)
