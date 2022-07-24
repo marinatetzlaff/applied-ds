@@ -110,6 +110,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
  - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/?utm_source=pocket-app&utm_medium=share)
  - [Git - la guía sencilla](https://rogerdudler.github.io/git-guide/index.es.html)
  - [Git SQL Together](https://caitlinhudon.com/2018/11/28/git-sql-together/)
+ - [Kindness and Code Reviews: Improving the Way We Give Feedback](https://product.voxmedia.com/2018/8/21/17549400/kindness-and-code-reviews-improving-the-way-we-give-feedback)
  - [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc) 
  - [Oh Shit Git](https://ohshitgit.com)
 
