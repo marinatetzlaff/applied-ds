@@ -51,6 +51,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [Deon](https://deon.drivendata.org/#simple-usage)
 - [How “Good Intent” Undermines Diversity and Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/?utm_source=pocket-app&utm_medium=share)
 - [Narrative Collapse](https://theconvivialsociety.substack.com/p/narrative-collapse)
+- [Pay Gap App](https://twitter.com/PayGapApp?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 - [Project Implicit](https://implicit.harvard.edu/implicit/research/)
 - [Recommended Reading for Allies](https://codeascraft.com/2016/08/10/recommended-reading-for-allies/)
 - [Springtime Everywhere](https://reallifemag.com/springtime-everywhere/)
