@@ -79,10 +79,14 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [On Moving from Statistics to Machine Learning](https://ryxcommar.com/2019/07/14/on-moving-from-statistics-to-machine-learning-the-final-stage-of-grief/)
 - [Sample Size Calculator](https://www.evanmiller.org/ab-testing/sample-size.html)
 - [Session for analysis, the eternal fiction](https://counting.substack.com/p/sessions-for-analysis-the-eternal)
-
+ 
  ## Power BI
  - [Data Stories Gallery](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
  - [Data Reduction Techniques](https://docs.microsoft.com/en-us/power-bi/guidance/import-modeling-data-reduction)
+
+ ## Professional Networks
+ - [Elpha](https://elpha.com/)
+ - [Blind - Workplace Community](https://www.teamblind.com/)
 
  ## Relational Database Management Systems
 - [DB-Engines Ranking](https://db-engines.com/en/ranking)
