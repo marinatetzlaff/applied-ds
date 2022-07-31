@@ -70,6 +70,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [Layoffs.fyi](https://layoffs.fyi/)
 - [PhD School in Pictures](http://matt.might.net/articles/phd-school-in-pictures/)
 - [Seeing Theory, A Visual Introduction to Probability and Statistics](https://seeing-theory.brown.edu/index.html)
+- [Sorting Algorithms](https://visualgo.net/en/sorting)
 - [So You Need a Typeface](https://julianhansen.com/soyouneedatypeface/)
 - [Timezone Visualization](https://colineberhardt.github.io/timezone-viz/multiples/)
 
