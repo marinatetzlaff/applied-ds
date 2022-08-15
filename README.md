@@ -15,6 +15,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [Relational Database Management Systems](#relational-database-management-systems)
 - [Sample Data Sets](#sample-data-sets)
 - [Survey Methodology](#survey-methodology)
+- [Team Performance](#team-performance)
 - [Version Control](#version-control)
 
  ## Applications
@@ -107,6 +108,9 @@ Selected papers, articles and blogs on data science in production. ⚙️
  - [Qué son los radios censales y para qué sirven](https://lautarocantar.com/post/qu%C3%A9-son-los-radios-censales-y-para-qu%C3%A9-sirven/)
  - [Weighting Methods](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiewJ-spL_vAhVvIbkGHfKMBjAQFjADegQIBxAD&url=https%3A%2F%2Fwww.scb.se%2Fcontentassets%2Fca21efb41fee47d293bbee5bf7be7fb3%2Fweighting-methods.pdf&usg=AOvVaw1lPhz6HvWaAgm05RfyrYH3)
  - [Weighting Online Opt-In Samples](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjM8rTQpL_vAhXyH7kGHbmoDzgQFjABegQIAhAD&url=https%3A%2F%2Fwww.pewresearch.org%2Fmethods%2Fwp-content%2Fuploads%2Fsites%2F10%2F2018%2F01%2FWeighting-Online-Opt-In-Samples.pdf&usg=AOvVaw3FgPOc46V8O25d1CYH4GDk)
+
+ ## Team Performance
+  - [It's High Planning Season](https://twitter.com/imightbemary/status/1461355389589417990)
 
  ## Version Control
  - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/?utm_source=pocket-app&utm_medium=share)
