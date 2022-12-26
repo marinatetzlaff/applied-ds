@@ -12,6 +12,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [Data Visualizations](#data-visualizations)
 - [Experimental Design](#experimental-design)
 - [Power BI](#power-bi)
+- [Python](#python)
 - [Relational Database Management Systems](#relational-database-management-systems)
 - [Sample Data Sets](#sample-data-sets)
 - [Survey Methodology](#survey-methodology)
@@ -35,6 +36,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [Falsehoods programmers believe about time](FalsehoodsAboutTime.com)
 - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [Living organisms can’t survive in their own waste products - Alan Kay](https://www.youtube.com/watch?v=kgmAwnNxdgw)
+- [Sorting Algorithms](https://visualgo.net/en/sorting)
 - [What Is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
  ## Data Architecture
@@ -60,6 +62,8 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [Want to Freak Yourself Out?](https://twitter.com/iamdylancurran/status/977559925680467968)
 
  ## Data Quality
+ - [Data Taxonomy Playbook](https://help.amplitude.com/hc/en-us/articles/5447828227867-Data-taxonomy-playbook-part-three-Industry-specific-recommendations)
+ - [Event Tracking Dictionary Template by Reforge](https://docs.google.com/spreadsheets/d/1z4KC7jEcOJr7c_-_V7d6TiWicL92bi_-li1S46if5Jw/edit#gid=0)
  - [Monitoring Data Quality at Scale with Statistical Modeling](https://eng.uber.com/monitoring-data-quality-at-scale/)
 
  ## Data Visualizations
@@ -71,7 +75,6 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [Layoffs.fyi](https://layoffs.fyi/)
 - [PhD School in Pictures](http://matt.might.net/articles/phd-school-in-pictures/)
 - [Seeing Theory, A Visual Introduction to Probability and Statistics](https://seeing-theory.brown.edu/index.html)
-- [Sorting Algorithms](https://visualgo.net/en/sorting)
 - [So You Need a Typeface](https://julianhansen.com/soyouneedatypeface/)
 - [Timezone Visualization](https://colineberhardt.github.io/timezone-viz/multiples/)
 
@@ -86,10 +89,10 @@ Selected papers, articles and blogs on data science in production. ⚙️
  ## Power BI
  - [Data Stories Gallery](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
  - [Data Reduction Techniques](https://docs.microsoft.com/en-us/power-bi/guidance/import-modeling-data-reduction)
-
- ## Professional Networks
- - [Elpha](https://elpha.com/)
- - [Blind - Workplace Community](https://www.teamblind.com/)
+ 
+ ## Python
+ - [Matplotlib - A Complete Data Visualization Guide](https://www.kaggle.com/code/berkayalan/matplotlib-a-complete-data-visualization-guide)
+ - [Plotly - Sankey Diagram in Python](https://plotly.com/python/sankey-diagram/)
 
  ## Relational Database Management Systems
 - [DB-Engines Ranking](https://db-engines.com/en/ranking)
@@ -119,4 +122,3 @@ Selected papers, articles and blogs on data science in production. ⚙️
  - [Kindness and Code Reviews: Improving the Way We Give Feedback](https://product.voxmedia.com/2018/8/21/17549400/kindness-and-code-reviews-improving-the-way-we-give-feedback)
  - [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc) 
  - [Oh Shit Git](https://ohshitgit.com)
-
