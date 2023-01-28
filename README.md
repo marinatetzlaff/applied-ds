@@ -68,7 +68,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
 
  ## Data Visualizations
 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [CDMX] (https://pudding.cool/2022/09/cdmx/)
+- [CDMX](https://pudding.cool/2022/09/cdmx/)
 - [Data Sketches](https://www.datasketch.es/)
 - [Data Visualization and the Modern Imagination](https://exhibits.stanford.edu/dataviz)
 - [Explorable Explanations](https://explorabl.es/)
