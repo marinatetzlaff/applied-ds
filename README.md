@@ -30,6 +30,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [The Full Data Science Roundup Reference](https://whisperingdata.substack.com/p/the-full-data-science-roundup-reference)
 - [Los Apuntes de Majo](https://losapuntesdemajo.vercel.app)
 - [Six Great Theorems of Linear Algebra](http://math.mit.edu/~gs/linearalgebra/linearalgebra5_6Great.pdf)
+- [SQL Templates](https://popsql.com/sql-templates)
 
  ## Computer Programming
 - [Automate Google Sheets: An Introduction to Google Apps Script](https://zapier.com/learn/google-sheets/google-apps-script-tutorial/)
