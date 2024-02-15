@@ -86,7 +86,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
 ## Data Visualization Tools
  - [Data Stories Gallery](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
  - [Data Reduction Techniques](https://docs.microsoft.com/en-us/power-bi/guidance/import-modeling-data-reduction)
- - [Getting Started with Tableau]([https://explorabl.es/](https://sonsofhierarchies.com/2018/05/08/getting-started-with-tableau-2/) 
+ - [Getting Started with Tableau](https://sonsofhierarchies.com/2018/05/08/getting-started-with-tableau-2/) 
 
  ## Experimental Design
 - [A list of tech companies and their experimentation platforms.](https://twitter.com/GergelyOrosz/status/1350831467354578945)
