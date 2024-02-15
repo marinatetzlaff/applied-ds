@@ -10,8 +10,8 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [Data Ethics](#data-ethics)
 - [Data Quality](#data-quality)
 - [Data Visualizations](#data-visualizations)
+- [Data Visualization Tools](#data-visualization-tools)
 - [Experimental Design](#experimental-design)
-- [Power BI](#power-bi)
 - [Python](#python)
 - [Relational Database Management Systems](#relational-database-management-systems)
 - [Sample Data Sets](#sample-data-sets)
@@ -41,6 +41,7 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [What Is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
  ## Data Architecture
+- [Databases Demystified](https://www.databasesdemystified.com/)
 - [Data Discovery Platforms and Their Open Source Solutions](https://eugeneyan.com/writing/data-discovery-platforms/)
 - [Data Monolith to Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 - [Quantum Computing for the Very Curious](https://quantum.country/qcvc)
@@ -75,10 +76,17 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [Explorable Explanations](https://explorabl.es/)
 - [Information is Beautiful](https://informationisbeautiful.net/)
 - [Layoffs.fyi](https://layoffs.fyi/)
+- [Matplotlib - A Complete Data Visualization Guide](https://www.kaggle.com/code/berkayalan/matplotlib-a-complete-data-visualization-guide)
 - [PhD School in Pictures](http://matt.might.net/articles/phd-school-in-pictures/)
+- [Plotly - Sankey Diagram in Python](https://plotly.com/python/sankey-diagram/)
 - [Seeing Theory, A Visual Introduction to Probability and Statistics](https://seeing-theory.brown.edu/index.html)
 - [So You Need a Typeface](https://julianhansen.com/soyouneedatypeface/)
 - [Timezone Visualization](https://colineberhardt.github.io/timezone-viz/multiples/)
+
+## Data Visualization Tools
+ - [Data Stories Gallery](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
+ - [Data Reduction Techniques](https://docs.microsoft.com/en-us/power-bi/guidance/import-modeling-data-reduction)
+ - [Getting Started with Tableau]([https://explorabl.es/](https://sonsofhierarchies.com/2018/05/08/getting-started-with-tableau-2/) 
 
  ## Experimental Design
 - [A list of tech companies and their experimentation platforms.](https://twitter.com/GergelyOrosz/status/1350831467354578945)
@@ -88,14 +96,6 @@ Selected papers, articles and blogs on data science in production. ⚙️
 - [Sample Size Calculator](https://www.evanmiller.org/ab-testing/sample-size.html)
 - [Session for analysis, the eternal fiction](https://counting.substack.com/p/sessions-for-analysis-the-eternal)
  
- ## Power BI
- - [Data Stories Gallery](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
- - [Data Reduction Techniques](https://docs.microsoft.com/en-us/power-bi/guidance/import-modeling-data-reduction)
- 
- ## Python
- - [Matplotlib - A Complete Data Visualization Guide](https://www.kaggle.com/code/berkayalan/matplotlib-a-complete-data-visualization-guide)
- - [Plotly - Sankey Diagram in Python](https://plotly.com/python/sankey-diagram/)
-
  ## Relational Database Management Systems
 - [DB-Engines Ranking](https://db-engines.com/en/ranking)
 - [Effective SQL for Data Science](https://ploomber.io/posts/sql/?utm_source=pocket_mylist)
